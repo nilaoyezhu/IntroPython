@@ -1,4 +1,3 @@
-# IntroPython
-An Introduction to Interactive Programming in Python, Rice Uni
+# MOOCS
 
-https://www.coursera.org/learn/interactive-python-1/
+Codes and other materials from courses studied online.
